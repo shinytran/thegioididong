@@ -1,2 +1,5 @@
 asdfasdlfdasdhf
 abc 123
+add: Ðang ký thay d?i trong index
+pull: L?y n?i dung c?a remote repository
+
