@@ -1,1 +1,4 @@
 asdfasdlfdasdhf
+abc 123
+add: Ðang ký thay d?i trong index
+commit: Luu l?i tr?ng thái c?a index
